@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@Assets/*": ["src/assets/*"],
+      "@Components/*": ["src/components/*"],
+      "@Constants/*": ["src/constants/*"],
+      "@Routes/*": ["src/routes/*"],
+      "@Contexts/*": ["src/contexts/*"],
+      "@Types": ["src/types"],
+      "@Types/*": ["src/types/*"],
+      "@Hooks/*": ["src/hooks/*"],
+      "@Material/*": ["src/material/*"],
+      "@Styles/*": ["src/styles/*"],
+      "@Utils/*": ["src/utils/*"],
+      "@Redux/*": ["src/redux/*"],
+      "@Svg/*": ["src/svg/*"],
+      "@Cypress/*": ["cypress/*"],
+      "@Test/*": ["test/*"],
+      "@Services/*": ["src/services/*"],
+      "@Pages/*": ["src/pages/*"],
+      "@CommonLib/*": ["src/commonLib/*"]
+    }
+  }
+}
